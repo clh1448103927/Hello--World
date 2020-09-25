@@ -1,2 +1,3 @@
-# Hello--World
-clhd
+<?php
+echo "Hello World";
+?>
